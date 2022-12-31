@@ -1,7 +1,5 @@
 # Recovery
 
-## Concepts
-
 ### **Dirty bit**
 
 A boolean flag associated with every block coming from the hard disk to the main memory for a transaction to process it.
